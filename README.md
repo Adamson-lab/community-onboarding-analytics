@@ -8,3 +8,12 @@ A data visualization project solving community retention drop-offs during the cr
 
 ## Visualizations
 The automated Python script generates charts tracking the onboarding funnel and comparing retention rates across different availability schedules (e.g., Schedule A).
+
+
+## Onboarding Visualizations
+
+### Funnel Drop-off
+![Onboarding Funnel](onboarding_funnel.png)
+
+### Schedule Activation
+![Schedule Activation](schedule_activation.png)
