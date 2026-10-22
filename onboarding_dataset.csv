@@ -1,0 +1,9 @@
+member_id,watched_welcome_video,booked_onboarding_call,selected_schedule,completed_first_week,churned
+101,True,True,Schedule A,True,False
+102,True,False,Pending,False,True
+103,True,True,Schedule B,False,True
+104,False,False,Pending,False,True
+105,True,True,Schedule A,True,False
+106,True,True,Schedule A,True,False
+107,True,False,Pending,False,True
+108,True,True,Schedule C,True,False
